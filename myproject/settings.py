@@ -69,7 +69,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'dcrm',  # Make sure this DB exists, or change to 'dcrm' if that's your DB
         'USER': 'root',
-        'PASSWORD': 'preethisampath65',  # <-- Use the correct password here
+        'PASSWORD': '//password',  # <-- Use the correct password here
         'HOST': 'localhost',
         'PORT': '3306',
     }
